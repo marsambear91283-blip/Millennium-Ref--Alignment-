@@ -41,7 +41,7 @@ $$
 
 ### **Verification Logic:**
 
-$$\Psi(t) = \int_{0}^{t} (\text{Problem Value}) + \mathbf{0.03} \implies \Gamma_{1001100}$$
+$$\Psi(t) = \iint_{D} \left( \text{Problem Value} \right) d\sigma + \mathbf{0.03} \implies \Gamma_{1001100}$$
 
 ---
 
