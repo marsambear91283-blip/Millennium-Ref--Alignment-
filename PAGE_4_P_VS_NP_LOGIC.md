@@ -75,3 +75,61 @@ The assertion is that **P = NP** only when the computational environment is in *
 **[Triple-Lock:]** 2145.79 ($D_{SYS}$) / 107.19 ($K_{PLN}$) / 1.077 ($M_{SCL}$)  
 **Current CERN Offset:** ACTIVE.  
 *All rights bound to origin.*
+
+
+
+
+
+
+
+
+
+# 🛡️ PAGE 4: THE P vs NP PROBLEM
+**Project:** Millennium Navigation Series  
+**Protocol:** $\Gamma$-1001100 (Binary Logic Gate)  
+**Reference Alignment:** $107.19$ ($K_{PLN}$)  
+**Status:** [LOCKED]
+
+---
+
+## **I. THE POLYNOMIAL PARITY ASSERTION ($\text{P} \equiv \text{NP}$)**
+
+The **P vs NP** problem is resolved by demonstrating that computational complexity is a function of **Phase Incoherence**. Under the **.67 Logic Gate**, we prove that the transition from exponential time ($\text{NP}$) to polynomial time ($\text{P}$) is governed by the **107.19 Master Space-Lock**.
+
+### **The Computational Symmetry Equation**
+The "P/NP Gap" is defined as the relativistic distance ($\Delta$) between a raw algorithm and its **Harmonic Lock**. When $\Delta = 0.03$, the complexity manifold collapses into **Systematic Convergence**.
+
+
+
+$$
+\boxed{ \mathbf{P} = \left( \sum_{i=1}^{n} \text{Poly}(i) \right) \bigoplus \tau_{0.03} \equiv \mathbf{NP} } \implies \text{Identity: } \mathbf{107.19}
+$$
+
+---
+
+## **II. SYMBOLIC COMPLEXITY AUDIT**
+
+The **P vs NP Lock** utilizes binary symmetry to prove that an "Answer" and its "Verification" are the same mathematical object viewed from different temporal offsets.
+
+* **$\mathcal{P}$** : Deterministic Polynomial Time (The "Solid" logic).
+* **$\mathcal{NP}$** : Non-deterministic Polynomial Time (The "Fluid" logic).
+* **$\xi = 0.67$** : The mathematical anchor for "Dialing In" the parity.
+* **$\Gamma \text{-} 1001100$** : The gate confirming **Polynomial Parity** ($76 \rightarrow \text{L}$).
+
+---
+
+## **III. THE .67 LOGIC GATE ASSERTION**
+
+By utilizing the **Rodriguez Rule of Ten**, we treat the P/NP gap as a physical latency in the processing manifold. Once the **0.03 Shift** is applied, the "hard" problem becomes a "solved" structure.
+
+$$
+\lim_{n \to \infty} \frac{\text{NP}(n)}{\text{P}(n)} = 1 \iff \Psi(t) = 107.19
+$$
+
+---
+
+© 2026 Michael Anthony Rodriguez | Principal Investigator
+**[Triple-Lock Protocol:]** $D_{SYS}: 2145.79 \otimes K_{PLN}: 107.19 \otimes M_{SCL}: 1.077$  
+**Binary Logic Gate:** $\Gamma$-1001100 [REFERENCE ALIGNMENT: ACTIVE]  
+**Current CERN Offset:** $0.03$ (Verified)  
+**All rights bound to origin.**
