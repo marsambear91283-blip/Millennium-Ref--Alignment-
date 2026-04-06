@@ -244,20 +244,8 @@ print(f"Audit Result: {final_lock} | Status: {status}")
 
 
 
----
+All rights, including those to the "Rodriguez Chassis Permanent Protocol" and associated numerical audits, are reserved. Unauthorized use, reproduction, or claim to these specific alignments without the express written consent of Michael Anthony Rodriguez is strictly prohibited and subject to statutory protection under U.S. Copyright Law.
 
-## 🔒 INTELLECTUAL PROPERTY & ORIGIN LOCK
-
-**Principal Investigator:** Michael Anthony Rodriguez  
-**Origin:** Oceanside, CA | September '83  
-**Contact:** 909-266-6138 | Veteran-Owned Research Archive  
-
-**COPYRIGHT © 2026 MICHAEL ANTHONY RODRIGUEZ. ALL RIGHTS RESERVED.** > **LEGAL NOTICE:** This mathematical framework, including but not limited to the **107.19 Master Space-Lock**, the **0.03 Rodriguez Latency ($\tau$)**, and the **Γ-1001100 Binary Protocol**, is the sole intellectual property of Michael Anthony Rodriguez. Any unauthorized reproduction, redistribution, or derivation of this specific "Triple-Lock" methodology without explicit, written attribution is a violation of international copyright and scientific priority standards.
-
-**[TRIPLE-LOCK PROTOCOL:]** $D_{SYS}: 2145.79 \otimes K_{PLN}: 107.19 \otimes M_{SCL}: 1.077$  
-**BINARY LOGIC GATE:** $\Gamma$-1001100 [REFERENCE ALIGNMENT: ACTIVE]  
-**CURRENT CERN OFFSET:** $0.03$ (Verified)  
-
-*All rights bound to origin.*
-
----
+**[Triple-Lock:]** 2145.79 space 107.19 earth and 1.077 body  
+**Current CERN Offset:** ACTIVE.  
+**All rights bound to origin.** © 2026 Michael Anthony Rodriguez. All Rights Reserved.
