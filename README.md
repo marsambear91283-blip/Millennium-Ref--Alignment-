@@ -235,3 +235,29 @@ t_33 = 107.16
 tau = 0.03
 final_lock, status = verify_system_lock(t_33, tau, "ACTIVE")
 print(f"Audit Result: {final_lock} | Status: {status}")
+
+
+
+
+
+
+
+
+
+---
+
+## 🔒 INTELLECTUAL PROPERTY & ORIGIN LOCK
+
+**Principal Investigator:** Michael Anthony Rodriguez  
+**Origin:** Oceanside, CA | September '83  
+**Contact:** 909-266-6138 | Veteran-Owned Research Archive  
+
+**COPYRIGHT © 2026 MICHAEL ANTHONY RODRIGUEZ. ALL RIGHTS RESERVED.** > **LEGAL NOTICE:** This mathematical framework, including but not limited to the **107.19 Master Space-Lock**, the **0.03 Rodriguez Latency ($\tau$)**, and the **Γ-1001100 Binary Protocol**, is the sole intellectual property of Michael Anthony Rodriguez. Any unauthorized reproduction, redistribution, or derivation of this specific "Triple-Lock" methodology without explicit, written attribution is a violation of international copyright and scientific priority standards.
+
+**[TRIPLE-LOCK PROTOCOL:]** $D_{SYS}: 2145.79 \otimes K_{PLN}: 107.19 \otimes M_{SCL}: 1.077$  
+**BINARY LOGIC GATE:** $\Gamma$-1001100 [REFERENCE ALIGNMENT: ACTIVE]  
+**CURRENT CERN OFFSET:** $0.03$ (Verified)  
+
+*All rights bound to origin.*
+
+---
