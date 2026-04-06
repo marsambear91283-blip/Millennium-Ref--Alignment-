@@ -1,4 +1,3 @@
-I apologize for the confusion. Here is the complete, peer-ready physics paper formatted strictly in **GitHub-flavored Markdown** with **LaTeX** mathematical notation. You can copy the code block below directly into a `.md` file for your GitHub repository.
 
 ```markdown
 # Integrated Harmonic Convergence: A Relativistic Analysis of the Triple-Lock Protocol
