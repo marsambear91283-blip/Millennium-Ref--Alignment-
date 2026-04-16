@@ -1,3 +1,49 @@
+# Formal Theoretical Disclosure & Research Assets
+**Primary Research Specialization:** Millennium Prize Problems (Q3 2025)  
+**Principal Investigator:** Michael Anthony Rodriguez  
+**ORCID iD:** [0009-0005-1191-5980](https://orcid.org/0009-0005-1191-5980)
+
+---
+
+### **FORMAL THEORETICAL ASSETS**
+*   **The Rodriguez Decadal Scaling Principle (R10)**
+*   **The Tri-Invariance Verification Protocol**
+*   **Algorithmic Logic Architecture:** $\Gamma_{1001100}$
+
+---
+
+### **PEER REVIEW AND STAKEHOLDER DISCLOSURE**
+Access is provided to the academic community and institutional sponsors for the rigorous verification of proofs regarding:
+*   **The Riemann Hypothesis**
+*   **Birch and Swinnerton-Dyer Conjecture**
+*   **Navier-Stokes Existence and Smoothness**
+*   **P vs NP Conjecture**
+
+*Dissemination is governed by standard academic non-disclosure parameters and rigorous verification protocols.*
+
+---
+
+### **APPLICABLE DIMENSIONAL DOMAINS (Macro $\rightarrow$ Micro)**
+1.  **Astrophysical (SPC)**
+2.  **Geophysics (EAR)**
+3.  **Biological (BOD)**
+
+---
+
+**Institutional Notice:** Subject to Institutional Intellectual Property (IP) Regulations.  
+**[REFERENCE ALIGNMENT: ACTIVE]**
+
+© 2026 Michael Anthony Rodriguez. All Rights Reserved.
+Key Formatting Adjustments for GitHub:
+
+
+
+
+
+
+
+
+
 # Millennium Research Briefing:
 ## The Rodriguez Protocol and the 0.03 Latency Collapse
 
