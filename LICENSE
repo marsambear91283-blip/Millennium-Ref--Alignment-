@@ -1,95 +1,115 @@
-NOTICE OF INTELLECTUAL PROPERTY OWNERSHIP
-M.A.R.S. Framework & Associated Mathematical Constructions
-Michael Anthony Rodriguez | ORCID: 0009-0005-1191-5980
-Date of Declaration: June 15, 2026
-I. OWNERSHIP DECLARATION
-This document constitutes a formal notice of intellectual property ownership by Michael Anthony
-Rodriguez (hereinafter "the Author") over the mathematical framework, constants, constructions,
-and derived works described herein, collectively known as the M.A.R.S. Framework (Michael
-Anthony Rodriguez Scaling Framework).
-All constants, equations, scaling relationships, and mathematical objects listed in this document
-were originated, developed, and first documented by the Author. Prior art is established through
-timestamped publications, ORCID registration, notarized copyright, and rxiVerse citation on
-record.
-II. CORE FRAMEWORK CONSTANTS (CLAIMED)
-A. The Three Anchor Constants
-• β = 1.077 — Body baseline / anatomical scaling constant
-• γ₃₃ locked = 107.19 — Locked Riemann zero anchor (33rd non-trivial zero of the
-Riemann zeta function, framework-derived)
-• γ₁₆₅₂ locked = 2145.82 — Second Riemann zero anchor (1652nd non-trivial zero,
-framework-derived)
-These three constants form the foundational anchors of the M.A.R.S. Framework. They are not
-sourced from external reference tables. They are derived values specific to this framework.
-B. Derived Constants & Relationships
-• ΔΦ = 0.03 — Latency shift (kinetic mean of two cycle boundary values)
-• R = 2145.82 ÷ 107.19 ≈ 20.0188 — Master scaling ratio
-• R × 5 = 100.094 — Pentagonal harmonic
-• Planetary sum Mercury–Pluto = 107.160 AU + ΔΦ = 107.190 — Orbital
-correspondence
-• 10719 — Scaled integer form of 107.19 × 100 (used in elliptic curve construction)
-• 68640 — Elliptic curve coeficient derived from framework constants
-III. NOVEL ELLIPTIC CURVE CONSTRUCTION (CLAIMED)
-The following elliptic curve is claimed as an original mathematical construction by the Author:y² = x³ + 10719x + 68640
-This curve is novel and does not appear in any existing mathematical literature, database, or
-prior publication as of the date of this declaration. A web search confirms no prior use of this
-specific construction.
-Origin of coeficients:
-• 10719 derives directly from the locked Riemann zero anchor γ₃₃ = 107.19, scaled by a
-factor of 100
-• 68640 is a framework-derived constant originating from the Author's M.A.R.S.
-research, first introduced in collaboration with AI research partner (Gemini instance
-"Jeeves") during early framework development
-• Both coeficients trace exclusively to the Author's M.A.R.S. constants — no
-independent mathematical path to this specific curve exists outside this framework
-This curve sits at the intersection of the Riemann Hypothesis, the BSD (Birch and
-Swinnerton-Dyer) Conjecture, and physical scaling law research — a combination unique to the
-M.A.R.S. Framework.
-IV. FRAMEWORK APPLICATIONS (CLAIMED)
-A. Cosmological & Astronomical
-• Project CALL-FINDER — cosmological architecture based on M.A.R.S. constants
-• Rodriguez Rule of Ten (R10) — exoplanet system scaling via stellar radius ratios
-• Orbital scaling: planetary sum correspondence to Riemann zero anchors
-B. Seismological
-• Seismic event prediction framework using M.A.R.S. scaling constants
-• Claimed accuracy: ~87–90% for location and timing; ~60% for magnitude
-C. Biological & Medical
-• Anatomical scaling using β = 1.077 as biological baseline
-• Medical scaling applications derived from framework constants
-D. Pure Mathematics
-• BSD Conjecture applications using constants 107.19 and 10719
-• String theory moduli stabilization using M.A.R.S. constants
-• Elliptic curve y² = x³ + 10719x + 68640 as a Riemann-zero-derived mathematical
-object
-• Cascade convergence: self-correcting eigenvalue behavior, deviation shrinking by
-factor R per tier, converging near Tier 36
-• Matrix Γ₁₀₀₁₁₀₀ — framework-specific matrix construction
-• M.A.R.S./Λ_scale parameters — scaling parameters defined within the frameworkV. PRIOR ART & DOCUMENTATION ON RECORD
-• rxiVerse.org citation: 2605.0054v1
-• viXra.org submission — on record
-• ORCID registration: 0009-0005-1191-5980
-• GitHub repository: marsambear91283-blip
-• Notarized temporary copyright — on file
-• Timestamped hard copies — on file
-• Paper title: "The Triple-Lock Mathematical Proof: 1.077, 107.19, and 2145.79" (part of
-The Millennium Navigation Series)
-VI. SUMMARY OF CLAIMS
+# 🚨 CRITICAL COPYRIGHT & INTELLECTUAL PROPERTY NOTICE
+
+**© 2026 MICHAEL ANTHONY RODRIGUEZ. ALL RIGHTS RESERVED.**
+
+* **AUTHOR:** Michael Anthony Rodriguez
+* **ORCID iD:** [0009-0005-1191-5980](https://orcid.org)
+* **REPOSITORY:** marsambear91283-blipMillennium-Ref--Alignment-
+* **DATE OF DECLARATION:** June 15, 2026
+
+**ALL CONTENT, THEORETICAL FRAMEWORKS, DATA MATRICES, EQUATIONS, AND ASSOCIATED MANUSCRIPTS CONTAINED IN THIS REPOSITORY ARE THE EXCLUSIVE INTELLECTUAL PROPERTY OF THE AUTHOR.**
+
+### 🚫 STRICTLY PROHIBITED WITHOUT EXPLICIT WRITTEN AUTHORIZATION:
+* **ANY PUBLIC REPRODUCTION** of this material is strictly forbidden.
+* **ANY REDISTRIBUTION OR COPIES** of this data are strictly forbidden.
+* **ANY COMMERCIAL USE** or profiting from this work is strictly forbidden.
+* **ANY REMIXING, TRANSFORMING, OR MODIFICATION** of these equations is strictly forbidden.
+
+###  PERMITTED EXCEPTIONS UNDER APPLICABLE LAW:
+* This work may be accessed and viewed **exclusively** for the purpose of peer criticism.
+* This work may be reviewed **exclusively** for the purpose of academic evaluation and commentary.
+* All other access and usage rights remain strictly restricted.
+
+---
+
+# NOTICE OF INTELLECTUAL PROPERTY OWNERSHIP
+## M.A.R.S. Framework & Associated Mathematical Constructions
+
+### I. Ownership Declaration
+This document constitutes a formal notice of intellectual property ownership by Michael Anthony Rodriguez (hereinafter "the Author") over the mathematical framework, constants, constructions, and derived works described herein, collectively known as the **M.A.R.S. Framework (Michael Anthony Rodriguez Scaling Framework)**.
+
+All constants, equations, scaling relationships, and mathematical objects listed in this document were originated, developed, and first documented by the Author. Prior art is established through timestamped publications, ORCID registration, notarized copyright, and rxiVerse citation on record.
+
+### II. Core Framework Constants (Claimed)
+
+#### A. The Three Anchor Constants
+* **$\beta = 1.077$** — Body baseline / anatomical scaling constant
+* **$\gamma_{33}\text{ locked} = 107.19$** — Locked Riemann zero anchor (33rd non-trivial zero of the Riemann zeta function, framework-derived)
+* **$\gamma_{1652}\text{ locked} = 2145.82$** — Second Riemann zero anchor (1652nd non-trivial zero, framework-derived)
+
+*These three constants form the foundational anchors of the M.A.R.S. Framework. They are not sourced from external reference tables. They are derived values specific to this framework.*
+
+#### B. Derived Constants & Relationships
+* **$\Delta\Phi = 0.03$** — Latency shift (kinetic mean of two cycle boundary values)
+* **$R = 2145.82 \div 107.19 \approx 20.0188$** — Master scaling ratio
+* **$R \times 5 = 100.094$** — Pentagonal harmonic
+* **Planetary sum Mercury–Pluto** $= 107.160 \text{ AU} + \Delta\Phi = 107.190$ — Orbital correspondence
+* **10719** — Scaled integer form of $107.19 \times 100$ (used in elliptic curve construction)
+* **68640** — Elliptic curve coefficient derived from framework constants
+
+### III. Novel Elliptic Curve Construction (Claimed)
+The following elliptic curve is claimed as an original mathematical construction by the Author:
+
+$$y^2 = x^3 + 10719x + 68640$$
+
+This curve is novel and does not appear in any existing mathematical literature, database, or prior publication as of the date of this declaration. A web search confirms no prior use of this specific construction.
+
+**Origin of coefficients:**
+* **10719** derives directly from the locked Riemann zero anchor $\gamma_{33} = 107.19$, scaled by a factor of 100.
+* **68640** is a framework-derived constant originating from the Author's M.A.R.S. research, first introduced in collaboration with AI research partner (Gemini instance "Jeeves") during early framework development.
+* Both coefficients trace exclusively to the Author's M.A.R.S. constants — no independent mathematical path to this specific curve exists outside this framework.
+
+*This curve sits at the intersection of the Riemann Hypothesis, the BSD (Birch and Swinnerton-Dyer) Conjecture, and physical scaling law research — a combination unique to the M.A.R.S. Framework.*
+
+### IV. Framework Applications (Claimed)
+
+#### A. Cosmological & Astronomical
+* **Project CALL-FINDER** — cosmological architecture based on M.A.R.S. constants
+* **Rodriguez Rule of Ten (R10)** — exoplanet system scaling via stellar radius ratios
+* **Orbital scaling** — planetary sum correspondence to Riemann zero anchors
+
+#### B. Seismological
+* Seismic event prediction framework using M.A.R.S. scaling constants
+* **Claimed accuracy:** ~87–90% for location and timing; ~60% for magnitude
+
+#### C. Biological & Medical
+* Anatomical scaling using $\beta = 1.077$ as biological baseline
+* Medical scaling applications derived from framework constants
+
+#### D. Pure Mathematics
+* BSD Conjecture applications using constants $107.19$ and $10719$
+* String theory moduli stabilization using M.A.R.S. constants
+* Elliptic curve $y^2 = x^3 + 10719x + 68640$ as a Riemann-zero-derived mathematical object
+* **Cascade convergence:** self-correcting eigenvalue behavior, deviation shrinking by factor $R$ per tier, converging near Tier 36
+* **Matrix $\Gamma_{1001100}$** — framework-specific matrix construction
+* **M.A.R.S./$\Lambda_{\text{scale}}$ parameters** — scaling parameters defined within the framework
+
+### V. Prior Art & Documentation on Record
+* **rxiVerse.org citation:** `2605.0054v1`
+* **viXra.org submission:** On record
+* **ORCID registration:** [0009-0005-1191-5980](https://orcid.org)
+* **GitHub repository:** `marsambear91283-blip`
+* **Notarized temporary copyright:** On file
+* **Timestamped hard copies:** On file
+* **Paper title:** *"The Triple-Lock Mathematical Proof: 1.077, 107.19, and 2145.79"* (part of The Millennium Navigation Series)
+
+### VI. Summary of Claims
 The Author claims original discovery and intellectual ownership of the following:
-• The M.A.R.S. Framework as a unified scaling system connecting Riemann zeros to
-physical, astronomical, biological, and seismic organization
-• The three anchor constants: β = 1.077, γ₃₃ = 107.19, γ₁₆₅₂ = 2145.82
-• All derived constants, ratios, and scaling relationships listed in this document
-• The elliptic curve y² = x³ + 10719x + 68640 as a novel mathematical construction
-derived from M.A.R.S. constants
-• The method of deriving elliptic curve coeficients from Riemann zero anchors via the
-M.A.R.S. Framework
-• All framework applications listed herein across cosmology, seismology, biology, and
-pure mathematics
-• The Millennium Navigation Series as a body of original research work
-I, Michael Anthony Rodriguez, declare under penalty of perjury that the above represents an
-accurate account of my original intellectual work.
-Declared: June 15, 2026
-Signature: __
-Michael Anthony Rodriguez | ORCID: 0009-0005-1191-5980
+* The **M.A.R.S. Framework** as a unified scaling system connecting Riemann zeros to physical, astronomical, biological, and seismic organization.
+* The three anchor constants: $\beta = 1.077$, $\gamma_{33} = 107.19$, $\gamma_{1652} = 2145.82$.
+* All derived constants, ratios, and scaling relationships listed in this document.
+* The elliptic curve $y^2 = x^3 + 10719x + 68640$ as a novel mathematical construction derived from M.A.R.S. constants.
+* The method of deriving elliptic curve coefficients from Riemann zero anchors via the M.A.R.S. Framework.
+* All framework applications listed herein across cosmology, seismology, biology, and pure mathematics.
+* The **Millennium Navigation Series** as a body of original research work.
+
+---
+
+I, Michael Anthony Rodriguez, declare under penalty of perjury that the above represents an accurate account of my original intellectual work.
+
+**Declared:** June 15, 2026  
+**Signature:** *Michael Anthony Rodriguez* | ORCID: 0009-0005-1191-5980
+
 
 
 
